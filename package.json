@@ -74,7 +74,7 @@
     "diff": "^4.0.1",
     "lodash": "^4.17.19",
     "requireg": "^0.2.1",
-    "semver": "^6.0.0"
+    "semver": "^7.3.5"
   },
   "engines": {
     "node": ">=6.0.0"
